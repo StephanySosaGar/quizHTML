@@ -1,0 +1,26 @@
+h1{  background-color: aquamarine;
+color: #2e2e2a;
+ font-size: larger; 
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.cuadrado{ background-color: blue;
+     width: 200px; 
+     height: 200px; 
+     color: blue; 
+    margin: 100px;}
+
+.circulo{ background-color: chartreuse; 
+    color: chartreuse;
+     width: 200px;
+      height: 200px; 
+      border-radius: 90%; 
+      margin: 100px;}
+
+    .triangulo-tricolor { margin: 100px;
+        width: 0; 
+        height: 10; 
+        border-left: 200px solid rgb(255, 255, 255);
+        border-top: 100px solid palevioletred;
+        border-bottom: 100px solid rgb(255, 255, 255); 
+   }
+    
